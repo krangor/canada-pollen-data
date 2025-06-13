@@ -1,5 +1,32 @@
 {
   "location": "Montreal",
-  "timestamp": "2025-06-13T13:03:14.584836Z",
-  "pollen": []
+  "pollen_forecast": [
+    {
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 13
+      },
+      "pollen": [
+        {
+          "type": "Grass",
+          "index": 3,
+          "category": "Moderate",
+          "description": "People with allergy to pollen are likely to experience symptoms"
+        },
+        {
+          "type": "Tree",
+          "index": 1,
+          "category": "Very Low",
+          "description": "People with very high allergy to pollen are likely to experience symptoms"
+        },
+        {
+          "type": "Weed",
+          "index": null,
+          "category": null,
+          "description": null
+        }
+      ]
+    }
+  ]
 }
