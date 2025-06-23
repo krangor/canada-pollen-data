@@ -5,14 +5,14 @@
       "date": {
         "year": 2025,
         "month": 6,
-        "day": 22
+        "day": 23
       },
       "pollen": [
         {
           "type": "Grass",
-          "index": 3,
-          "category": "Moderate",
-          "description": "People with allergy to pollen are likely to experience symptoms"
+          "index": 2,
+          "category": "Low",
+          "description": "People with high allergy to pollen are likely to experience symptoms"
         },
         {
           "type": "Tree",
