@@ -5,14 +5,14 @@
       "date": {
         "year": 2025,
         "month": 8,
-        "day": 3
+        "day": 26
       },
       "pollen": [
         {
           "type": "Grass",
-          "index": 2,
-          "category": "Low",
-          "description": "People with high allergy to pollen are likely to experience symptoms"
+          "index": null,
+          "category": "None",
+          "description": "Pollen levels are very low and are not likely to trigger allergic reactions"
         },
         {
           "type": "Tree",
