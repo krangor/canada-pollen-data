@@ -4,8 +4,8 @@
     {
       "date": {
         "year": 2025,
-        "month": 8,
-        "day": 31
+        "month": 9,
+        "day": 1
       },
       "pollen": [
         {
@@ -16,9 +16,9 @@
         },
         {
           "type": "Tree",
-          "index": 1,
-          "category": "Very Low",
-          "description": "People with very high allergy to pollen are likely to experience symptoms"
+          "index": null,
+          "category": null,
+          "description": null
         },
         {
           "type": "Weed",
